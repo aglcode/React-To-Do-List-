@@ -1,0 +1,22 @@
+{
+  "post": [
+    {
+      "title": " Buy",
+      "body": " I need to go to the supermarket and pick up some essentials. The list includes milk, eggs, bread, and fresh vegetables. I'll also check if there are any discounts on snacks and beverages. After shopping, I'll organize everything in the fridge properly.",
+      "created_at": "3/15/2025",
+      "id": 1
+    },
+    {
+      "title": " React",
+      "body": " Today, I will focus on finalizing the UI design and making it more responsive. I also need to integrate the API and ensure the data is being fetched correctly. Once done, I will test the application for any bugs. If time permits, I’ll work on adding some animations.",
+      "created_at": "3/15/2025",
+      "id": 2
+    },
+    {
+      "title": " DEMO",
+      "body": " I plan to do a 30-minute jog in the morning to stay active. After that, I'll complete a short bodyweight workout focusing on core exercises. Stretching for at least 10 minutes will help prevent soreness. Staying consistent with workouts will improve my energy levels.",
+      "created_at": "3/15/2025",
+      "id": 3
+    }
+  ]
+}
